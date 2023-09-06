@@ -1,14 +1,26 @@
 body{
-    background-color: black;
+    background-color: #000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/*Headings*/
 .header--main{
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
+.header--secondary{
+    font-size: 42px;
+    font-weight: 300;
+    color: #fff;
+
+}
+.header--sub-header{
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+/*Links*/
 .link--cta{
     font-size: 16px;
     color: aquamarine;
